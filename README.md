@@ -4,6 +4,7 @@
 
 
   <a href="beacons.ai/xuaan01">
+  <a href="https://github.com/rafaballerini">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xuan002&show_icons=true&theme=tokyonight)
 
   
@@ -16,7 +17,7 @@
   <img align="center" alt="Juan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Juan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Juan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Juan-pic" height="150" style="border-radius:50px;"
+  
   </div>
    
   ##
