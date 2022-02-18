@@ -1,11 +1,11 @@
-- 💻 Foca em Front-End
+- 💻 Foco em Front-End
 - 🌱 Estudando React  - 📫 juanmachado123@hotmail.com
 - 📕 "Conhece-te a ti mesmo e conhecerás o universo e os deuses"  
 
-<div>
+
   <a href="beacons.ai/xuaan01">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xuan002&show_icons=true&theme=tokyonight)
-</div>
+
   
   <div>
     <div style="display: inline_block"><br>
