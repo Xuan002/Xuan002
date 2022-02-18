@@ -1,5 +1,5 @@
 - 💻 Foco em Front-End
-- 🌱 Estudando React  - 📫 juanmachado123@hotmail.com
+- 🌱 Estudando React  
 - 📕 "Conhece-te a ti mesmo e conhecerás o universo e os deuses"  
 
 
