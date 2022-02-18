@@ -4,7 +4,7 @@
 
 
   <a href="beacons.ai/xuaan01">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/Xuan002">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xuan002&show_icons=true&theme=tokyonight)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Xuan002&show_icons=true&theme=tokyonight)
 
