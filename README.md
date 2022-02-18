@@ -6,6 +6,7 @@
   <a href="beacons.ai/xuaan01">
   <a href="https://github.com/rafaballerini">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xuan002&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=username=Xuan002=compact&langs_count=7&theme=tokyonight)
 
   
   <div>
