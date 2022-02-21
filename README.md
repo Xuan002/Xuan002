@@ -1,4 +1,4 @@
-- 💻 Foco em Front-End
+- 💻 Foco em melhorar
 - 🌱 Estudando React  
 - 📕 "Conhece-te a ti mesmo e conhecerás o universo e os deuses"  
 
