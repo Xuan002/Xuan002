@@ -2,12 +2,12 @@
 - 🌱 Estudando React  
 - 📕 "Conhece-te a ti mesmo e conhecerás o universo e os deuses"  
 
-
+<div align="center">
   <a href="beacons.ai/xuaan01">
   <a href="https://github.com/Xuan002">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xuan002&show_icons=true&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Xuan002&show_icons=true&theme=tokyonight)
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xuan002&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xuan002&show_icons=true&theme=tokyonight"/>
+</div>
   
   <div>
     <div style="display: inline_block"><br>
